@@ -107,7 +107,6 @@ export default {
     return {
       isNoteCompleted: false,
       confirm: false,
-
       noteEditableData: {},
       todosLocal: {},
     };
@@ -177,7 +176,7 @@ export default {
         gsap.to(el, {
           opacity: 0,
           height: 0,
-          duration: 1,
+          duration: 0.3,
           onComplete: () => {
             this.deleteNote(noteId);
             gsap.to(el, {
