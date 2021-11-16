@@ -41,6 +41,10 @@ Here we can...
   
 5) Deleting notes is also possible
 6) Every time the site's page loades, a random background is apllied
+7) If there are no notes, the user sees the following
+   :![image](https://user-images.githubusercontent.com/78899681/142026734-8bb989bf-634a-4e51-9a03-adec6ca4134a.png)
+8) Otherwise, the button moves to the left top
+   ![image](https://user-images.githubusercontent.com/78899681/142026890-b59b8d0b-0b36-4468-8eb9-b0dac6082856.png)
 
 Google lighthouse
 ![image](https://user-images.githubusercontent.com/78899681/142026393-b92124f0-a548-4d5e-9eab-3e1bc7b7674e.png)
