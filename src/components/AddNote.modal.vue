@@ -2,7 +2,6 @@
   <q-dialog>
     <q-card style="width: 700px; max-width: 80vw;" ref="card">
       <q-card-section class="row items-center q-pb-none">
-        <div class="text-h6">Close icon</div>
         <q-space/>
         <q-btn icon="close" flat round dense v-close-popup/>
       </q-card-section>
