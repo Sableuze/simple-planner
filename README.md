@@ -34,7 +34,7 @@ Here we can...
    ![image](https://user-images.githubusercontent.com/78899681/142025027-8489dc9f-8b05-48d3-aa19-ff4d9be08d0c.png)
 3) If the user has successfully done a todo, he can mark it as completed!
    [image](https://user-images.githubusercontent.com/78899681/142025278-d42e70e4-96f0-4224-9011-8b0f21f42720.png)
-4) Only after all related todos done, the user can mark the NOTE as fully fulfilled and send it to archive by clicking on a checkbox and pressing "SUBMIT" on a modal window
+4) Only after all related todos are done, the user can mark the NOTE as fully fulfilled and send it to archive by clicking on a checkbox and pressing "SUBMIT" on a modal window
   ![image](https://user-images.githubusercontent.com/78899681/142025787-976e9355-feb1-46fc-a503-c177e95b11f5.png)
   ![image](https://user-images.githubusercontent.com/78899681/142025826-831a797d-1564-4a35-b122-39bb231ac48f.png)
   ![image](https://user-images.githubusercontent.com/78899681/142025860-29e1bdf9-9f76-46b5-aea0-0f2bad8867e2.png)
