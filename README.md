@@ -29,7 +29,7 @@ Here we can...
 
 1) Add a new note:
   ![image](https://user-images.githubusercontent.com/78899681/142024213-54a372bf-1b9a-4fe8-8e97-500a14152ad0.png)
-    The user can type its name and create todos up to 5. However, he cannot leave fields empty - the validator refuse to add the note unless every requirement is fulfilled
+    The user can type its name and create todos up to 5. However, he cannot leave fields empty - the validator will refuse to add the note unless every requirement is fulfilled
 2) After adding the user can change note's name and its todos' text
    ![image](https://user-images.githubusercontent.com/78899681/142025027-8489dc9f-8b05-48d3-aa19-ff4d9be08d0c.png)
 3) If the user has successfully done a todo, he can mark it as completed!
