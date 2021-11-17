@@ -40,7 +40,7 @@ Here we can...
   ![image](https://user-images.githubusercontent.com/78899681/142025860-29e1bdf9-9f76-46b5-aea0-0f2bad8867e2.png)
   
 5) Deleting notes is also possible
-6) Every time the site's page loades, a random background is apllied
+6) Every time the site's page loades, a random background is applied
 7) If there are no notes, the user sees the following
    :![image](https://user-images.githubusercontent.com/78899681/142026734-8bb989bf-634a-4e51-9a03-adec6ca4134a.png)
 8) Otherwise, the button moves to the left top
